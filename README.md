@@ -13,6 +13,7 @@ You can read more about it on the [blog that inspired this setup](http://lolengi
 
 ```bash
 git clone https://github.com/raisty/osx-compose-key.git
+cd osx-compose-key
 ./install.sh
 ```
 
